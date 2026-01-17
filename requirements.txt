@@ -28,7 +28,3 @@ kornia==0.8.2
 spandrel==0.4.1
 pydantic==2.12.5
 pydantic-settings==2.12.0
-
-# add
-sageattention==1.0.6
-triton==3.5.1
