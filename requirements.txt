@@ -2,7 +2,7 @@
 comfyui_frontend_package==1.38.4
 comfyui_workflow_templates==0.8.11
 comfyui-embedded-docs==0.4.0
-torch== 2.9.1
+torch==2.9.1
 torchsde==0.2.6
 torchvision==0.24.1
 torchaudio==2.9.1
